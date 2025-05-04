@@ -1,14 +1,15 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: #1e4620;
+    background-color: #222222; 
 }
+
 
 .Intro {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 25px;
     margin-left: 20px;
-    color: #ff00ff;
+    color: #169976;
 }
 
 .intro1 {
@@ -16,7 +17,7 @@ body {
     font-size: 25px;
     margin-left: 20px;
     margin-top: 70px;
-    color: #ff00ff;
+    color: #169976;
 }
 
 .para {
@@ -26,7 +27,7 @@ body {
     margin-left: 20px;
     margin-right: 20px;
     margin-top: 10px;
-    color: #cc92cc;
+    color: #1DCD9F;
 }
 
 .clr-btn {
