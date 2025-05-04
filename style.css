@@ -9,7 +9,7 @@ body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 25px;
     margin-left: 20px;
-    color: #169976;
+    color: rgb(235, 218, 30);
 }
 
 .intro1 {
@@ -17,7 +17,7 @@ body {
     font-size: 25px;
     margin-left: 20px;
     margin-top: 70px;
-    color: #169976;
+    color: rgb(127, 235, 11);
 }
 
 .para {
@@ -27,7 +27,7 @@ body {
     margin-left: 20px;
     margin-right: 20px;
     margin-top: 10px;
-    color: #1DCD9F;
+    color: #05ffbc;
 }
 
 .clr-btn {
@@ -37,6 +37,8 @@ body {
     margin-left: 20px;
     padding-top: 10px;
     padding-bottom: 10px;
+    size: large;
+    border-radius: 10px;
 }
 
 .clr-btn:hover {
@@ -49,4 +51,5 @@ body {
     cursor: pointer;
     padding-top: 10px;
     padding-bottom: 10px;
+    border-radius: 10px;
 }
